@@ -1,3 +1,3 @@
-int hello(String name) {
+void hello(String name) {
   print('Hello, $name!');
 }
